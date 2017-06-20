@@ -11,7 +11,7 @@
 
   Works with Express 3.x.x
 
-    npm install git://github.com/webdesign-berlin/express-flash.git
+    npm install git://github.com/webdesignberlin/express-flash.git
 
 
 ## Usage

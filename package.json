@@ -2,12 +2,12 @@
   "name": "express-notifications",
   "version": "0.0.1",
   "description": "Flash Messages for your Express Application",
-  "homepage": "https://github.com/webdesign-berlin/express-flash",
+  "homepage": "https://github.com/webdesignberlin/express-flash",
   "keywords": ["express", "flash", "messages"],
   "author": "RGBboy <me@rgbboy.com>",
   "repository" : {
     "type" : "git",
-    "url" : "http://github.com/webdesign-berlin/express-flash"
+    "url" : "http://github.com/webdesignberlin/express-flash"
   },
   "main": "index",
   "engines": {
