@@ -1,4 +1,4 @@
-# Express Flash
+# express-notifications inspired by Express Flash
 
   Flash Messages for your Express Application
 
@@ -11,7 +11,7 @@
 
   Works with Express 3.x.x
 
-    npm install git://github.com/RGBboy/express-flash.git
+    npm install git://github.com/webdesign-berlin/express-flash.git
 
 
 ## Usage
@@ -19,7 +19,7 @@
   Set it up the same way you would `connect-flash`:
 
 ``` javascript
-  var flash = require('express-flash'),
+  var flash = require('express-notifications'),
       express = require('express'),
       app = express();
 

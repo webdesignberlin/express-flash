@@ -1,20 +1,20 @@
 {
-  "name": "express-flash",
-  "version": "0.0.2",
+  "name": "express-notifications",
+  "version": "0.0.1",
   "description": "Flash Messages for your Express Application",
-  "homepage": "https://github.com/RGBboy/express-flash",
+  "homepage": "https://github.com/webdesign-berlin/express-flash",
   "keywords": ["express", "flash", "messages"],
   "author": "RGBboy <me@rgbboy.com>",
   "repository" : {
     "type" : "git",
-    "url" : "http://github.com/RGBboy/express-flash"
+    "url" : "http://github.com/webdesign-berlin/express-flash"
   },
   "main": "index",
   "engines": {
     "node": ">= 0.8.0"
   },
   "dependencies": {
-    "connect-flash": "0.1.x"
+    "connect-flash-plus": "0.2.1"
   },
   "devDependencies": {
     "express": "3.x.x",
